@@ -125,4 +125,4 @@ Untuk menjaga agar tetap berada dalam batas *free tier* Cloudflare (10GB), strat
 
 ## **7\. Dokumen Terkait**
 
-* **Diagram Alur Logika: Aplikasi Peminjaman Alat PTID** (diagram\_alur\_aplikasi.html) \- Dokumen ini adalah pelengkap visual untuk BRD ini dan menjelaskan alur data secara rinci.
+* **Diagram Alur Logika: Aplikasi Peminjaman Alat PTID** (diagram aplikasi peminjaman.svg) \- Dokumen ini adalah pelengkap visual untuk BRD ini dan menjelaskan alur data secara rinci.
